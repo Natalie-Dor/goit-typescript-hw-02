@@ -1,0 +1,13 @@
+.btn {
+  background-color: grey;
+  color: white;
+  width: 160px;
+  height: 40px;
+  margin: 16px auto;
+  border: 1px solid darkgray;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
