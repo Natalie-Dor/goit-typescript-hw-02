@@ -1,6 +1,7 @@
 import axios from "axios";
 
 export interface Image {
+  id: number;
   urls: {
     small: string;
     large: string;
